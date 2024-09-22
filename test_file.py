@@ -1,6 +1,2 @@
-def fn(a, b):
-    return b, a
-
-a = 5
-b = 7
-print(fn(a, b))
+num_1 = int(input("Введите первое число: "))
+num_2 = int(input("Введите второе число: "))
